@@ -1,0 +1,44 @@
+{
+  "employee": [
+    {
+      "name": "Precious Ikpa",
+      "email": "ikpaprecious2@gmail.com",
+      "phone": "08167394074",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Ikpa Chibuzor",
+      "email": "buzor@gmail.com",
+      "phone": "08167546778"
+    },
+    {
+      "name": "Happiness Ikpa",
+      "email": "happiness@gmail.com",
+      "phone": "08034623075",
+      "active": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Emmanuel Ikpa",
+      "email": "emma@gmail.com",
+      "phone": "09131244802"
+    },
+    {
+      "name": "John Doe",
+      "email": "doe@gmail.com",
+      "phone": "0987t657676",
+      "active": true,
+      "id": 6
+    },
+    {
+      "name": "Precious Ikpa",
+      "email": "ikpaprecious2@gmail.com",
+      "phone": "08167394074",
+      "active": false,
+      "id": 7
+    }
+  ]
+}
