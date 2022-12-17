@@ -5,13 +5,20 @@
       "email": "ikpaprecious2@gmail.com",
       "phone": "08167394074",
       "active": true,
+      "id": 1
+    },
+    {
+      "name": "Precious Ikpa",
+      "email": "ikpaprecious2@gmail.com",
+      "phone": "08167394074",
+      "active": true,
       "id": 2
     },
     {
-      "id": 3,
       "name": "Ikpa Chibuzor",
       "email": "buzor@gmail.com",
-      "phone": "08167546778"
+      "phone": "08167546778",
+      "id": 3
     },
     {
       "name": "Happiness Ikpa",
@@ -39,6 +46,13 @@
       "phone": "08167394074",
       "active": false,
       "id": 7
+    },
+    {
+      "name": "Ayo",
+      "email": "ayo@gmail.com",
+      "phone": "070878656564",
+      "active": true,
+      "id": 8
     }
   ]
 }
